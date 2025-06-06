@@ -1,0 +1,13 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="gsDb" id="276A1B55-C721-BB66-5022-D88762DF32F2" version="3.5">
+<createdBy>labsfiap</createdBy>
+<createdTime>2025-05-30 13:30:49 UTC</createdTime>
+<ownerDesignName>gsDb</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>276A1B55-C721-BB66-5022-D88762DF32F2</designId>
+<usedDesignStorageDescriptors>
+<designDescr class="oracle.dbtools.crest.model.design.Design$DesignStorageDesc" id="A227D732-47DC-630A-815D-00E8E6F62940">
+<designStoragePath>C:\gsbd</designStoragePath>
+</designDescr>
+</usedDesignStorageDescriptors>
+</OSDM_Design>
